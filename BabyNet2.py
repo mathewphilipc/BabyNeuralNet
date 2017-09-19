@@ -40,6 +40,3 @@ if __name__ == "__main__":
 
 	print "New synaptic weights after training: "
 	print neural_network.synaptic_weights
-
-
-print("hello world")
