@@ -53,7 +53,7 @@ class NeuralNetwork():
 
 if __name__ == "__main__":
 	print "hello world"
-	random.seed(1)
+	random.seed(3)
 
 	layer1 = NeuronLayer(1,3)
 	layer2 = NeuronLayer(1,1)
